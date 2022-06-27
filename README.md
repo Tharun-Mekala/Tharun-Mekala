@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharun Mekala</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharun-mekala&label=Profile%20views&color=0e75b6&style=flat" alt="tharun-mekala" /> </p>
+<img align="left" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rmlhpwa2x926njgi693oztu04y5pux3g5w7m2aj2&rid=giphy.gif&ct=g">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharun-mekala" alt="tharun-mekala" /></a> </p>
 
