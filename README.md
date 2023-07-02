@@ -3,7 +3,6 @@
 <img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rmlhpwa2x926njgi693oztu04y5pux3g5w7m2aj2&rid=giphy.gif&ct=g">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharun-mekala" alt="tharun-mekala" /></a> </p>
 
 - 💬 Ask me about **C Java Sql**
 
