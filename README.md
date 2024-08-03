@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharun Mekala</h1>
-<h3 align="center">Ex-Moblie APP Developer Intern @Eficaa Ensmart Solutions Pvt Ltd | DSA Mentor @Smart Interviews | Java Backend Developer | Python | CSE'24 @GPREC</h3>
+<h3 align="center">Ex-Moblie APP Developer Intern @Eficaa Ensmart Solutions Pvt Ltd | DSA Mentor @Smart Interviews | CSE'24 @GPREC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharun-mekala&label=Profile%20views&color=0e75b6&style=flat" alt="tharun-mekala" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharun-mekala" alt="tharun-mekala" /></a> </p>
