@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharun-mekala" alt="tharun-mekala" /></a> </p>
 
 
-- 💬 Ask me about **C Java Sql**
+- 💬 Ask me about **C, Java, Sql, React Native, ReactsJs, Springboot, Data Structure & Algorithms, **
 
 - 📫 How to reach me **tharun04032002@gmail.com**
 
